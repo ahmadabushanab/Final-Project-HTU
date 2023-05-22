@@ -1,4 +1,4 @@
-# Final-Project-HTU
+# Final-Project-HTU 
 1- go to website and check the default language is en
 2- go to the website and check the default currency is SAR
 3- go and select the countries to be randomly from (Riyadh,Dubai,Jeddah), to (amman) and select the date to be after 2 days from the time you
